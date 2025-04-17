@@ -1,5 +1,5 @@
 vless://1@enjoye:98?encryption=none&security=none&type=tcp&headerType=none#%E2%9A%9C%EF%B8%8FCreated%2Bby%2B%40DeadMasteR
-vless://2@deadserver:98?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%97%93%2B%D8%A7%D8%B9%D8%AA%D8%A8%D8%A7%D8%B1%2B%D8%B2%D9%85%D8%A7%D9%86%DB%8C%3A%2B%E2%99%BE%EF%B8%8F
+vless://2@DeadServer:98?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%97%93%20%D8%A7%D8%B9%D8%AA%D8%A8%D8%A7%D8%B1%20%D8%B2%D9%85%D8%A7%D9%86%DB%8C%3A%201404%2F07%2F21
 vless://3@deadserver:98?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%93%B6%2B%D8%A7%D8%B9%D8%AA%D8%A8%D8%A7%D8%B1%2B%D8%AD%D8%AC%D9%85%DB%8C%3A%2B%E2%99%BE%EF%B8%8F
 vless://7c6d09ea-92e7-46cd-9c0f-8a71968f5681@162.159.192.119:443?encryption=none&security=tls&sni=BpB.PECexOh582.wOrkers.DEv&alpn=http%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=bpb.pecexoh582.workers.dev&path=%2Fw42063jeh3My9psJ%3Fed%3D2560#%F0%9F%92%A0%2B%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%2B1%2B%F0%9F%94%B4
 vless://7c6d09ea-92e7-46cd-9c0f-8a71968f5681@162.159.192.145:443?encryption=none&security=tls&sni=BpB.PECexOh582.wOrkers.DEv&alpn=http%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=bpb.pecexoh582.workers.dev&path=%2Fw42063jeh3My9psJ%3Fed%3D2560#%F0%9F%92%A0%2B%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%2B2%2B%F0%9F%94%B4
